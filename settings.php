@@ -29,6 +29,8 @@ if ($user_color = green) {
 } else {
 	if ($user_color = purple) {
 		header "Location: purple.php";
+	} else {
+		header "Location: green.php";
 	};
 };
 
