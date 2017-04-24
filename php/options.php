@@ -1,4 +1,25 @@
 <?php
+#######################################################################
+#							IMPORTANT MESSAGE	  					  #
+#######################################################################
+#																	  #
+#	The use of 'options.php' error settings had been decrypted,		  #
+#	errors will now be displayed directly on the page instead of	  #
+#	by being redirected to the 'options.php'.						  #
+#																	  #
+#######################################################################
+
+
+#######################################################################
+#						PURPOSE OF OPTIONS.PHP						  #
+#######################################################################
+#
+#	'options.php' is a file that controls the site options
+#
+#
+
+
+
 
 #####################
 # BASIC INFORMATION #
