@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.body_body {
+	max-width: 500px;
+	margin: auto;
+	height: 300px;
+}
+
+.body_container {
+	width: 96%;
+	margin: auto;
+}
