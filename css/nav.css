@@ -1,0 +1,21 @@
+#header {
+    color: white;
+    line-height: 70px;
+    height: 70px;
+    padding: 0;
+}
+
+#second_header {
+    color: white !important;
+    line-height: 30px;
+}
+
+#logo {
+    vertical-align: middle;
+}
+
+#logo img {
+    height: 60px;
+    margin-top: -10px;
+    display: inline;
+}

@@ -1,0 +1,39 @@
+#home input[type="text"] {
+    background-color: white;
+    border: 1px solid #e74c3c;
+    font-size: 15px;
+    padding: 5px;
+    width: 490px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    outline: none;
+    border-radius: 5px;
+}
+
+#home input[type="password"] {
+    background-color: white;
+    border: 1px solid #e74c3c;
+    font-size: 15px;
+    padding: 5px;
+    width: 490px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    outline: none;
+    border-radius: 5px;
+}
+
+#home {
+    margin: 0 auto;
+}
+
+#home select {
+    background-color: white;
+    border: 1px solid #e74c3c;
+    font-size: 15px;
+    padding: 5px;
+    width: 501px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    outline: none;
+    border-radius: 5px;
+}
